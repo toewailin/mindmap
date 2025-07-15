@@ -2,4 +2,5 @@
 
 A mindmap application built with React.
 ## TODO
-to add the download as HTML, SVG, PNG, PDF
+- show inside the div canvas for the Mindmap result
+- to add the download as HTML, SVG, PNG, PDF
